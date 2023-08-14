@@ -1,0 +1,5 @@
+regex
+numpy
+nltk
+spacy
+scikit-learn

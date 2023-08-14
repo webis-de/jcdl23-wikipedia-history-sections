@@ -1,0 +1,6 @@
+corpora
+models
+code/corpus_reader/flask
+
+/**/__pycache__
+/**/logs

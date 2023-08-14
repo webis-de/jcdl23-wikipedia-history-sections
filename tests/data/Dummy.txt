@@ -1,0 +1,14 @@
+'''Dummy''' is just a dummy article.
+
+==Section 1==
+This is the section 1 text with some markup &lt;ref&gt; and a ref {{cite ref2}}.
+
+===Section 1.1===
+This is a subsection.
+
+=====Section 1.1.1=====
+This is a subsubsection.
+
+==Section 2==
+
+Here's the rest of the text.

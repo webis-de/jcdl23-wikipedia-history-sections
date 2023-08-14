@@ -1,0 +1,12 @@
+{
+    "media":["films","movies","series","albums","anime","manga","comics","books","documents","novels","screenplays","fiction","stories","games","songs"],
+    "people":["people","fellows","members","male","female","writers","authors","alumni","occupations"],
+    "institutions":["institution","companies","schools","colleges","institute","department","university","universities","academies",
+                    "committees","commissions","foundations","associations","authorities","organizations","organisations","societies",
+                    "council","museums","establishments","agencies","churches","ministries"],
+    "events":["events","festivals","conventions","awards","conferences","competitions","expeditions"],
+    "places":["villages","towns","cities","countries","states","places","parks","districts","by country"],
+    "other":["journals","magazines","births","deaths","buildings","structures","treaties","observances about science","history"],
+    "collections":["lists","indixes","indices","glossaries"],
+    "not science":["esoteric","pseudoscience"]
+}
